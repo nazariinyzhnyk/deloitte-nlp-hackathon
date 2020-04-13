@@ -1,4 +1,4 @@
-# Deloitte NLP hackaton
+# Deloitte NLP hackathon
 
 Text classification task (3 classes) with search criteria.
 
