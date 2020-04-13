@@ -1,5 +1,7 @@
 # Deloitte NLP hackathon
 
+Hosted on Kaggle as InClass [competition](https://www.kaggle.com/c/company-acceptance-prediction/overview).
+
 Text classification task (3 classes) with search criteria.
 
 Finally we got acceptable results with two-level model 
