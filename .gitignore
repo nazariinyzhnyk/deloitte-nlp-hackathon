@@ -7,7 +7,6 @@ dump/
 
 company-acceptance-prediction/
 data/
-notebooks/
 __pycache__/
 *.py[cod]
 *$py.class
