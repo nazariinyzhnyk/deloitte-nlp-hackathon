@@ -1,0 +1,6 @@
+numpy
+pandas
+spacy
+scikit-learn
+torch
+sentence-transformers
